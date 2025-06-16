@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguitar_stuff=self.webpackChunkguitar_stuff||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/guitar-stuff-website/blog","blogTitle":"Blog","authorsListPath":"/guitar-stuff-website/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguitar_stuff=self.webpackChunkguitar_stuff||[]).push([[184],{5273:e=>{e.exports=JSON.parse('{"authors":[{"name":"Sergey","title":"Founder @ Orthogonal","imageURL":"https://orthogonal.one/img/blog/sergey.jpg","key":"sk","page":null,"count":0}]}')}}]);
