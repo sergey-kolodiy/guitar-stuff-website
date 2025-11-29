@@ -1,0 +1,39 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:5
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-a-form.svg"">"	"<img src=""a-triad-large-voicing-c-a-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-c-form.svg"">"	"<img src=""a-triad-large-voicing-c-c-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-d-form.svg"">"	"<img src=""a-triad-large-voicing-c-d-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-e-form.svg"">"	"<img src=""a-triad-large-voicing-c-e-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-g-form.svg"">"	"<img src=""a-triad-large-voicing-c-g-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-4str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-4str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-5str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-5str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-6str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-6str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-am-form.svg"">"	"<img src=""a-triad-large-voicing-cm-am-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-cm-form.svg"">"	"<img src=""a-triad-large-voicing-cm-cm-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-dm-form.svg"">"	"<img src=""a-triad-large-voicing-cm-dm-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-em-form.svg"">"	"<img src=""a-triad-large-voicing-cm-em-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-gm-form-4str.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-4str.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-gm-form-6str.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-6str.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C, Large Voicing, A Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-c-a-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C, Large Voicing, C Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-c-c-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C, Large Voicing, D Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-c-d-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C, Large Voicing, E Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-c-e-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C, Large Voicing, G Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-c-g-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 4th string (1 to 3d)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 4th string (1 to 5th)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 5th string (1 to 3d)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 5th string (1 to 5th)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 6th string (1 to 3d)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-3d.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Augmented, Large Voicing, 6th string (1 to 5th)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-5th.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Am Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-am-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Cm Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-cm-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Dm Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-dm-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Em Form<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-em-form.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Gm Form (4th string)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-4str.svg"">"	Triad
+Basic	Fretboard::03 - Chords::01 - Triads::Larger Voicings::Recall	"<div>C Minor, Large Voicing, Gm Form (6th string)<div><img src=""q-fretboard-section-5frets.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-6str.svg"">"	Triad

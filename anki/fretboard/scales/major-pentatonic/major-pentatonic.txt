@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:5
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box1-1str.svg"">"	"<img src=""a-scale-major-pentatonic-box1.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box1-4str.svg"">"	"<img src=""a-scale-major-pentatonic-box1.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box1-6str.svg"">"	"<img src=""a-scale-major-pentatonic-box1.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box2-2str.svg"">"	"<img src=""a-scale-major-pentatonic-box2.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box2-4str.svg"">"	"<img src=""a-scale-major-pentatonic-box2.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box3-2str.svg"">"	"<img src=""a-scale-major-pentatonic-box3.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box3-5str.svg"">"	"<img src=""a-scale-major-pentatonic-box3.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box4-3str.svg"">"	"<img src=""a-scale-major-pentatonic-box4.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box4-5str.svg"">"	"<img src=""a-scale-major-pentatonic-box4.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box5-1str.svg"">"	"<img src=""a-scale-major-pentatonic-box5.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box5-3str.svg"">"	"<img src=""a-scale-major-pentatonic-box5.svg"">"	Scale
+Basic	Fretboard::04 - Scales::Major Pentatonic::Recall	"<img src=""q-scale-major-pentatonic-box5-6str.svg"">"	"<img src=""a-scale-major-pentatonic-box5.svg"">"	Scale

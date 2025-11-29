@@ -1,0 +1,251 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:5
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-0inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-0inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-0inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-0inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-1inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-1inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-1inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-1inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-2inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-2inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-2inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-aug-2inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-aug-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-0inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-0inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-0inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-0inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-1inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-1inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-1inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-1inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-2inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-2inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-2inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-dim-2inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-dim-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-0inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-0inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-0inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-0inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-1inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-1inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-1inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-1inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-2inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-2inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-2inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-maj-2inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-maj-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-0inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-0inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-0inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-0inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-1inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-1inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-1inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-1inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-2inv-3str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-2inv-4str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-2inv-5str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recognize	"<img src=""q-triad-closed-voicing-c-min-2inv-6str.svg"">"	"<img src=""a-triad-closed-voicing-c-min-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Root Position, 3d string	"<img src=""a-triad-closed-voicing-c-aug-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Root Position, 4th string	"<img src=""a-triad-closed-voicing-c-aug-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Root Position, 5th string	"<img src=""a-triad-closed-voicing-c-aug-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Root Position, 6th string	"<img src=""a-triad-closed-voicing-c-aug-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, First Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-aug-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, First Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-aug-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, First Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-aug-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, First Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-aug-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Second Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-aug-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Second Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-aug-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Second Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-aug-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Augmented, Closed Voicing, Second Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-aug-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Root Position, 3d string	"<img src=""a-triad-closed-voicing-c-dim-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Root Position, 4th string	"<img src=""a-triad-closed-voicing-c-dim-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Root Position, 5th string	"<img src=""a-triad-closed-voicing-c-dim-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Root Position, 6th string	"<img src=""a-triad-closed-voicing-c-dim-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, First Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-dim-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, First Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-dim-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, First Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-dim-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, First Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-dim-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Second Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-dim-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Second Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-dim-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Second Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-dim-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Diminished, Closed Voicing, Second Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-dim-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Root Position, 3d string	"<img src=""a-triad-closed-voicing-c-maj-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Root Position, 4th string	"<img src=""a-triad-closed-voicing-c-maj-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Root Position, 5th string	"<img src=""a-triad-closed-voicing-c-maj-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Root Position, 6th string	"<img src=""a-triad-closed-voicing-c-maj-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, First Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-maj-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, First Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-maj-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, First Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-maj-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, First Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-maj-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Second Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-maj-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Second Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-maj-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Second Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-maj-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Major, Closed Voicing, Second Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-maj-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Root Position, 3d string	"<img src=""a-triad-closed-voicing-c-min-0inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Root Position, 4th string	"<img src=""a-triad-closed-voicing-c-min-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Root Position, 5th string	"<img src=""a-triad-closed-voicing-c-min-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Root Position, 6th string	"<img src=""a-triad-closed-voicing-c-min-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, First Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-min-1inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, First Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-min-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, First Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-min-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, First Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-min-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Second Inversion, 3d string	"<img src=""a-triad-closed-voicing-c-min-2inv-3str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Second Inversion, 4th string	"<img src=""a-triad-closed-voicing-c-min-2inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Second Inversion, 5th string	"<img src=""a-triad-closed-voicing-c-min-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Closed Voicings::Recall	C Minor, Closed Voicing, Second Inversion, 6th string	"<img src=""a-triad-closed-voicing-c-min-2inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-5str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-5str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-0inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-5str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-5str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-1inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-1inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-5str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-5str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-aug-2inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-aug-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-0inv-4str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-0inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-0inv-6str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-1inv-4str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-1inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-1inv-6str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-2inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-dim-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-2inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-dim-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-2inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-dim-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-2inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-dim-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-dim-2inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-dim-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-0inv-4str.svg"">"	"<img src=""a-triad-open-voicing-c-maj-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-0inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-maj-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-0inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-0inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-5str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-5str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-1inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-1inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-5str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-5str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-maj-2inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-maj-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-0inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-min-0inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-0inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-min-0inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-0inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-min-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-0inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-min-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-0inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-min-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-1inv-4str.svg"">"	"<img src=""a-triad-open-voicing-c-min-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-1inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-min-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-1inv-6str.svg"">"	"<img src=""a-triad-open-voicing-c-min-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-2inv-4str-a.svg"">"	"<img src=""a-triad-open-voicing-c-min-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-2inv-4str-b.svg"">"	"<img src=""a-triad-open-voicing-c-min-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-2inv-5str.svg"">"	"<img src=""a-triad-open-voicing-c-min-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-2inv-6str-a.svg"">"	"<img src=""a-triad-open-voicing-c-min-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recognize	"<img src=""q-triad-open-voicing-c-min-2inv-6str-b.svg"">"	"<img src=""a-triad-open-voicing-c-min-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 4th string (option A)	"<img src=""a-triad-open-voicing-c-aug-0inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 4th string (option B)	"<img src=""a-triad-open-voicing-c-aug-0inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 5th string (option A)	"<img src=""a-triad-open-voicing-c-aug-0inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 5th string (option B)	"<img src=""a-triad-open-voicing-c-aug-0inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 6th string (option A)	"<img src=""a-triad-open-voicing-c-aug-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Root Position, 6th string (option B)	"<img src=""a-triad-open-voicing-c-aug-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-aug-1inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-aug-1inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 5th string (option A)	"<img src=""a-triad-open-voicing-c-aug-1inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 5th string (option B)	"<img src=""a-triad-open-voicing-c-aug-1inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-aug-1inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, First Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-aug-1inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-aug-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-aug-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 5th string (option A)	"<img src=""a-triad-open-voicing-c-aug-2inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 5th string (option B)	"<img src=""a-triad-open-voicing-c-aug-2inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-aug-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Augmented, Open Voicing, Second Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-aug-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Root Position, 4th string	"<img src=""a-triad-open-voicing-c-dim-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Root Position, 5th string	"<img src=""a-triad-open-voicing-c-dim-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Root Position, 6th string	"<img src=""a-triad-open-voicing-c-dim-0inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, First Inversion, 4th string	"<img src=""a-triad-open-voicing-c-dim-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, First Inversion, 5th string	"<img src=""a-triad-open-voicing-c-dim-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, First Inversion, 6th string	"<img src=""a-triad-open-voicing-c-dim-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Second Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-dim-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Second Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-dim-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Second Inversion, 5th string	"<img src=""a-triad-open-voicing-c-dim-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Second Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-dim-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Diminished, Open Voicing, Second Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-dim-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Root Position, 4th string	"<img src=""a-triad-open-voicing-c-maj-0inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Root Position, 5th string	"<img src=""a-triad-open-voicing-c-maj-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Root Position, 6th string (option A)	"<img src=""a-triad-open-voicing-c-maj-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Root Position, 6th string (option B)	"<img src=""a-triad-open-voicing-c-maj-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-maj-1inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-maj-1inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 5th string (option A)	"<img src=""a-triad-open-voicing-c-maj-1inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 5th string (option B)	"<img src=""a-triad-open-voicing-c-maj-1inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-maj-1inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, First Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-maj-1inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-maj-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-maj-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 5th string (option A)	"<img src=""a-triad-open-voicing-c-maj-2inv-5str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 5th string (option B)	"<img src=""a-triad-open-voicing-c-maj-2inv-5str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-maj-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Major, Open Voicing, Second Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-maj-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Root Position, 4th string (option A)	"<img src=""a-triad-open-voicing-c-min-0inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Root Position, 4th string (option B)	"<img src=""a-triad-open-voicing-c-min-0inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Root Position, 5th string	"<img src=""a-triad-open-voicing-c-min-0inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Root Position, 6th string (option A)	"<img src=""a-triad-open-voicing-c-min-0inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Root Position, 6th string (option B)	"<img src=""a-triad-open-voicing-c-min-0inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, First Inversion, 4th string	"<img src=""a-triad-open-voicing-c-min-1inv-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, First Inversion, 5th string	"<img src=""a-triad-open-voicing-c-min-1inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, First Inversion, 6th string	"<img src=""a-triad-open-voicing-c-min-1inv-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Second Inversion, 4th string (option A)	"<img src=""a-triad-open-voicing-c-min-2inv-4str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Second Inversion, 4th string (option B)	"<img src=""a-triad-open-voicing-c-min-2inv-4str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Second Inversion, 5th string	"<img src=""a-triad-open-voicing-c-min-2inv-5str.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Second Inversion, 6th string (option A)	"<img src=""a-triad-open-voicing-c-min-2inv-6str-a.svg"">"	Triad
+Basic	Fretboard::Triads::Open Voicings::Recall	C Minor, Open Voicing, Second Inversion, 6th string (option B)	"<img src=""a-triad-open-voicing-c-min-2inv-6str-b.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-a-form.svg"">"	"<img src=""a-triad-large-voicing-c-a-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-c-form.svg"">"	"<img src=""a-triad-large-voicing-c-c-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-d-form.svg"">"	"<img src=""a-triad-large-voicing-c-d-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-e-form.svg"">"	"<img src=""a-triad-large-voicing-c-e-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-c-g-form.svg"">"	"<img src=""a-triad-large-voicing-c-g-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-4str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-4str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-4str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-5str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-5str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-5str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-6str-3d.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-caug-6str-5th.svg"">"	"<img src=""a-triad-large-voicing-caug-6str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-am-form.svg"">"	"<img src=""a-triad-large-voicing-cm-am-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-cm-form.svg"">"	"<img src=""a-triad-large-voicing-cm-cm-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-dm-form.svg"">"	"<img src=""a-triad-large-voicing-cm-dm-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-em-form.svg"">"	"<img src=""a-triad-large-voicing-cm-em-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-gm-form-4str.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recognize	"<img src=""q-triad-large-voicing-cm-gm-form-6str.svg"">"	"<img src=""a-triad-large-voicing-cm-gm-form-6str.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C, Large Voicing, A Form	"<img src=""a-triad-large-voicing-c-a-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C, Large Voicing, C Form	"<img src=""a-triad-large-voicing-c-c-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C, Large Voicing, D Form	"<img src=""a-triad-large-voicing-c-d-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C, Large Voicing, E Form	"<img src=""a-triad-large-voicing-c-e-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C, Large Voicing, G Form	"<img src=""a-triad-large-voicing-c-g-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 4th string (1 to 3d)	"<img src=""a-triad-large-voicing-caug-4str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 4th string (1 to 5th)	"<img src=""a-triad-large-voicing-caug-4str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 5th string (1 to 3d)	"<img src=""a-triad-large-voicing-caug-5str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 5th string (1 to 5th)	"<img src=""a-triad-large-voicing-caug-5str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 6th string (1 to 3d)	"<img src=""a-triad-large-voicing-caug-6str-3d.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Augmented, Large Voicing, 6th string (1 to 5th)	"<img src=""a-triad-large-voicing-caug-6str-5th.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Am Form	"<img src=""a-triad-large-voicing-cm-am-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Cm Form	"<img src=""a-triad-large-voicing-cm-cm-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Dm Form	"<img src=""a-triad-large-voicing-cm-dm-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Em Form	"<img src=""a-triad-large-voicing-cm-em-form.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Gm Form (4th string)	"<img src=""a-triad-large-voicing-cm-gm-form-4str.svg"">"	Triad
+Basic	Fretboard::Triads::Larger Voicings::Recall	C Minor, Large Voicing, Gm Form (6th string)	"<img src=""a-triad-large-voicing-cm-gm-form-6str.svg"">"	Triad
